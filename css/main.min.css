@@ -13269,7 +13269,7 @@ b,strong {
     width: 41px;
     height: 42px;
     content: "";
-    background: url(../img/feature-1.svg)
+    background: url(../images/feature-1.svg)
 }
 
 .nutritional-info__list-item:nth-child(2)::before {
@@ -13279,7 +13279,7 @@ b,strong {
     width: 41px;
     height: 42px;
     content: "";
-    background: url(../img/feature-2.svg)
+    background: url(../images/feature-2.svg)
 }
 
 .nutritional-info__list-item:nth-child(3)::before {
@@ -13289,7 +13289,7 @@ b,strong {
     width: 41px;
     height: 42px;
     content: "";
-    background: url(../img/feature-3.svg)
+    background: url(../images/feature-3.svg)
 }
 
 .nutritional-info__list-item:nth-child(4)::before {
@@ -13299,7 +13299,7 @@ b,strong {
     width: 41px;
     height: 42px;
     content: "";
-    background: url(../img/feature-4.svg)
+    background: url(../images/feature-4.svg)
 }
 
 .sorts {
